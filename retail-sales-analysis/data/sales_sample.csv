@@ -1,0 +1,601 @@
+order_id,date,product,category,quantity,unit_price,unit_cost,discount,city
+ORD0001,2025-11-24,Mouse,Electronics,1,18,9,0.15,Irbid
+ORD0002,2025-05-06,Monitor,Electronics,2,190,135,0.15,Amman
+ORD0003,2025-12-13,Water Bottle,Accessories,1,15,7,0.1,Zarqa
+ORD0004,2025-01-17,Laptop,Electronics,1,650,480,0,Karak
+ORD0005,2025-09-16,Backpack,Accessories,1,45,25,0.1,Karak
+ORD0006,2025-11-29,Water Bottle,Accessories,4,15,7,0,Zarqa
+ORD0007,2025-10-29,Notebook,Stationery,1,4,1.5,0,Zarqa
+ORD0008,2025-06-24,Notebook,Stationery,2,4,1.5,0,Irbid
+ORD0009,2025-02-22,Mouse,Electronics,4,18,9,0,Irbid
+ORD0010,2025-06-26,Backpack,Accessories,3,45,25,0,Zarqa
+ORD0011,2025-10-02,Mouse,Electronics,4,18,9,0,Irbid
+ORD0012,2025-11-18,Backpack,Accessories,3,45,25,0.1,Karak
+ORD0013,2025-12-27,Mouse,Electronics,1,18,9,0.15,Karak
+ORD0014,2025-05-29,Mouse,Electronics,2,18,9,0,Zarqa
+ORD0015,2025-05-23,Desk,Furniture,3,220,155,0,Irbid
+ORD0016,2025-07-01,Monitor,Electronics,3,190,135,0.15,Amman
+ORD0017,2025-11-08,Keyboard,Electronics,5,35,19,0.15,Karak
+ORD0018,2025-03-25,Desk,Furniture,4,220,155,0,Karak
+ORD0019,2025-12-17,Pen Set,Stationery,1,8,3,0,Amman
+ORD0020,2025-06-11,Desk Chair,Furniture,3,125,80,0,Karak
+ORD0021,2025-10-18,Pen Set,Stationery,2,8,3,0.15,Zarqa
+ORD0022,2025-07-22,Desk,Furniture,2,220,155,0,Karak
+ORD0023,2025-05-07,Water Bottle,Accessories,5,15,7,0,Zarqa
+ORD0024,2025-10-26,Desk Chair,Furniture,3,125,80,0,Karak
+ORD0025,2025-09-18,Desk,Furniture,1,220,155,0,Amman
+ORD0026,2025-03-20,Keyboard,Electronics,4,35,19,0.1,Amman
+ORD0027,2025-07-17,Desk Chair,Furniture,5,125,80,0.05,Irbid
+ORD0028,2025-10-11,Laptop,Electronics,1,650,480,0.15,Irbid
+ORD0029,2025-11-25,Pen Set,Stationery,1,8,3,0,Zarqa
+ORD0030,2025-03-22,Desk,Furniture,1,220,155,0.15,Irbid
+ORD0031,2025-09-14,Keyboard,Electronics,5,35,19,0,Irbid
+ORD0032,2025-11-24,Water Bottle,Accessories,5,15,7,0,Karak
+ORD0033,2025-07-11,Keyboard,Electronics,5,35,19,0.1,Amman
+ORD0034,2025-11-03,Pen Set,Stationery,4,8,3,0,Amman
+ORD0035,2025-07-05,Notebook,Stationery,2,4,1.5,0,Karak
+ORD0036,2025-10-18,Mouse,Electronics,1,18,9,0.15,Zarqa
+ORD0037,2025-02-05,Water Bottle,Accessories,2,15,7,0,Zarqa
+ORD0038,2025-10-09,Keyboard,Electronics,3,35,19,0.1,Zarqa
+ORD0039,2025-04-19,Water Bottle,Accessories,2,15,7,0.15,Irbid
+ORD0040,2025-07-24,Pen Set,Stationery,4,8,3,0.1,Zarqa
+ORD0041,2025-03-03,Monitor,Electronics,2,190,135,0,Irbid
+ORD0042,2025-01-11,Backpack,Accessories,5,45,25,0,Karak
+ORD0043,2025-01-04,Mouse,Electronics,1,18,9,0,Amman
+ORD0044,2025-01-17,Pen Set,Stationery,1,8,3,0.1,Karak
+ORD0045,2025-05-23,Desk,Furniture,2,220,155,0.1,Karak
+ORD0046,2025-10-20,Backpack,Accessories,4,45,25,0,Zarqa
+ORD0047,2025-07-28,Monitor,Electronics,1,190,135,0,Zarqa
+ORD0048,2025-07-01,Desk Chair,Furniture,4,125,80,0.05,Amman
+ORD0049,2025-12-11,Mouse,Electronics,1,18,9,0.05,Irbid
+ORD0050,2025-02-25,Monitor,Electronics,2,190,135,0,Zarqa
+ORD0051,2025-03-13,Desk Chair,Furniture,2,125,80,0,Zarqa
+ORD0052,2025-05-08,Mouse,Electronics,4,18,9,0.1,Amman
+ORD0053,2025-01-26,Water Bottle,Accessories,1,15,7,0,Karak
+ORD0054,2025-03-27,Desk Chair,Furniture,4,125,80,0.05,Karak
+ORD0055,2025-07-25,Laptop,Electronics,2,650,480,0.05,Amman
+ORD0056,2025-07-19,Notebook,Stationery,4,4,1.5,0,Zarqa
+ORD0057,2025-12-23,Water Bottle,Accessories,4,15,7,0,Karak
+ORD0058,2025-06-01,Monitor,Electronics,1,190,135,0.1,Amman
+ORD0059,2025-06-10,Laptop,Electronics,1,650,480,0.1,Zarqa
+ORD0060,2025-09-15,Water Bottle,Accessories,2,15,7,0,Amman
+ORD0061,2025-04-06,Mouse,Electronics,5,18,9,0,Karak
+ORD0062,2025-07-26,Mouse,Electronics,5,18,9,0,Amman
+ORD0063,2025-11-14,Mouse,Electronics,4,18,9,0.15,Irbid
+ORD0064,2025-05-14,Monitor,Electronics,3,190,135,0,Irbid
+ORD0065,2025-07-22,Keyboard,Electronics,3,35,19,0.05,Irbid
+ORD0066,2025-02-07,Laptop,Electronics,4,650,480,0.1,Amman
+ORD0067,2025-02-07,Water Bottle,Accessories,2,15,7,0.1,Irbid
+ORD0068,2025-03-09,Pen Set,Stationery,1,8,3,0,Irbid
+ORD0069,2025-05-26,Keyboard,Electronics,4,35,19,0.1,Irbid
+ORD0070,2025-11-10,Water Bottle,Accessories,1,15,7,0.15,Irbid
+ORD0071,2025-12-06,Mouse,Electronics,2,18,9,0,Amman
+ORD0072,2025-02-24,Water Bottle,Accessories,2,15,7,0,Irbid
+ORD0073,2025-11-06,Monitor,Electronics,3,190,135,0,Irbid
+ORD0074,2025-09-16,Desk,Furniture,3,220,155,0,Amman
+ORD0075,2025-11-21,Desk Chair,Furniture,3,125,80,0,Amman
+ORD0076,2025-06-20,Keyboard,Electronics,3,35,19,0,Zarqa
+ORD0077,2025-10-10,Desk Chair,Furniture,5,125,80,0,Amman
+ORD0078,2025-02-08,Keyboard,Electronics,5,35,19,0,Irbid
+ORD0079,2025-10-26,Water Bottle,Accessories,2,15,7,0.05,Karak
+ORD0080,2025-01-22,Notebook,Stationery,3,4,1.5,0,Irbid
+ORD0081,2025-04-18,Monitor,Electronics,1,190,135,0,Zarqa
+ORD0082,2025-11-14,Keyboard,Electronics,2,35,19,0,Karak
+ORD0083,2025-07-31,Laptop,Electronics,2,650,480,0.15,Irbid
+ORD0084,2025-07-30,Monitor,Electronics,3,190,135,0,Amman
+ORD0085,2025-07-15,Laptop,Electronics,4,650,480,0,Karak
+ORD0086,2025-08-24,Pen Set,Stationery,3,8,3,0,Karak
+ORD0087,2025-01-13,Monitor,Electronics,4,190,135,0,Irbid
+ORD0088,2025-02-05,Notebook,Stationery,3,4,1.5,0.15,Zarqa
+ORD0089,2025-12-14,Water Bottle,Accessories,3,15,7,0,Amman
+ORD0090,2025-05-14,Keyboard,Electronics,5,35,19,0,Amman
+ORD0091,2025-02-25,Backpack,Accessories,4,45,25,0,Irbid
+ORD0092,2025-08-12,Backpack,Accessories,5,45,25,0,Zarqa
+ORD0093,2025-10-23,Monitor,Electronics,3,190,135,0,Zarqa
+ORD0094,2025-01-01,Water Bottle,Accessories,5,15,7,0.15,Karak
+ORD0095,2025-07-06,Desk Chair,Furniture,1,125,80,0.15,Irbid
+ORD0096,2025-11-16,Pen Set,Stationery,1,8,3,0.15,Irbid
+ORD0097,2025-09-17,Notebook,Stationery,4,4,1.5,0,Zarqa
+ORD0098,2025-12-23,Notebook,Stationery,5,4,1.5,0,Karak
+ORD0099,2025-08-04,Desk Chair,Furniture,2,125,80,0.1,Irbid
+ORD0100,2025-07-27,Water Bottle,Accessories,1,15,7,0,Irbid
+ORD0101,2025-04-18,Desk Chair,Furniture,5,125,80,0.1,Irbid
+ORD0102,2025-08-27,Desk,Furniture,4,220,155,0.15,Karak
+ORD0103,2025-09-19,Desk,Furniture,2,220,155,0.15,Amman
+ORD0104,2025-05-26,Water Bottle,Accessories,5,15,7,0,Amman
+ORD0105,2025-05-01,Notebook,Stationery,2,4,1.5,0,Karak
+ORD0106,2025-01-13,Laptop,Electronics,2,650,480,0.05,Amman
+ORD0107,2025-08-22,Desk Chair,Furniture,5,125,80,0,Zarqa
+ORD0108,2025-09-11,Desk Chair,Furniture,2,125,80,0,Amman
+ORD0109,2025-02-24,Desk Chair,Furniture,2,125,80,0,Zarqa
+ORD0110,2025-01-26,Water Bottle,Accessories,2,15,7,0,Zarqa
+ORD0111,2025-03-10,Desk,Furniture,5,220,155,0.1,Irbid
+ORD0112,2025-08-15,Backpack,Accessories,5,45,25,0.05,Zarqa
+ORD0113,2025-03-23,Desk,Furniture,4,220,155,0,Karak
+ORD0114,2025-11-23,Notebook,Stationery,5,4,1.5,0.05,Karak
+ORD0115,2025-05-21,Desk,Furniture,1,220,155,0.15,Irbid
+ORD0116,2025-05-01,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0117,2025-03-12,Keyboard,Electronics,2,35,19,0.05,Karak
+ORD0118,2025-12-28,Monitor,Electronics,1,190,135,0.05,Zarqa
+ORD0119,2025-06-19,Water Bottle,Accessories,4,15,7,0.05,Amman
+ORD0120,2025-04-16,Desk Chair,Furniture,4,125,80,0.1,Amman
+ORD0121,2025-10-22,Desk Chair,Furniture,4,125,80,0,Irbid
+ORD0122,2025-06-02,Desk Chair,Furniture,4,125,80,0.1,Karak
+ORD0123,2025-09-07,Monitor,Electronics,3,190,135,0.05,Zarqa
+ORD0124,2025-01-15,Desk Chair,Furniture,3,125,80,0.15,Zarqa
+ORD0125,2025-03-26,Desk,Furniture,2,220,155,0.1,Amman
+ORD0126,2025-07-21,Backpack,Accessories,5,45,25,0.15,Amman
+ORD0127,2025-02-12,Desk Chair,Furniture,2,125,80,0.05,Karak
+ORD0128,2025-01-26,Notebook,Stationery,4,4,1.5,0,Karak
+ORD0129,2025-08-21,Pen Set,Stationery,3,8,3,0.05,Irbid
+ORD0130,2025-08-04,Notebook,Stationery,1,4,1.5,0.05,Amman
+ORD0131,2025-10-04,Laptop,Electronics,3,650,480,0,Amman
+ORD0132,2025-11-30,Laptop,Electronics,1,650,480,0,Karak
+ORD0133,2025-01-11,Backpack,Accessories,2,45,25,0,Karak
+ORD0134,2025-08-31,Mouse,Electronics,5,18,9,0,Zarqa
+ORD0135,2025-12-25,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0136,2025-03-25,Notebook,Stationery,1,4,1.5,0.1,Amman
+ORD0137,2025-06-09,Backpack,Accessories,4,45,25,0.05,Karak
+ORD0138,2025-02-08,Backpack,Accessories,2,45,25,0,Irbid
+ORD0139,2025-12-17,Backpack,Accessories,1,45,25,0.1,Amman
+ORD0140,2025-06-27,Water Bottle,Accessories,4,15,7,0.15,Irbid
+ORD0141,2025-02-05,Water Bottle,Accessories,3,15,7,0,Zarqa
+ORD0142,2025-09-08,Mouse,Electronics,4,18,9,0,Zarqa
+ORD0143,2025-12-29,Keyboard,Electronics,4,35,19,0,Irbid
+ORD0144,2025-11-12,Water Bottle,Accessories,4,15,7,0.05,Zarqa
+ORD0145,2025-10-31,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0146,2025-05-23,Desk,Furniture,2,220,155,0.05,Zarqa
+ORD0147,2025-06-22,Laptop,Electronics,4,650,480,0,Karak
+ORD0148,2025-09-07,Monitor,Electronics,3,190,135,0,Irbid
+ORD0149,2025-05-24,Backpack,Accessories,3,45,25,0.1,Amman
+ORD0150,2025-09-22,Monitor,Electronics,1,190,135,0,Zarqa
+ORD0151,2025-09-08,Water Bottle,Accessories,2,15,7,0.15,Zarqa
+ORD0152,2025-11-27,Desk,Furniture,4,220,155,0,Amman
+ORD0153,2025-05-31,Monitor,Electronics,4,190,135,0.15,Karak
+ORD0154,2025-06-06,Backpack,Accessories,3,45,25,0.05,Irbid
+ORD0155,2025-08-06,Water Bottle,Accessories,3,15,7,0,Zarqa
+ORD0156,2025-05-19,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0157,2025-04-09,Pen Set,Stationery,1,8,3,0.15,Karak
+ORD0158,2025-04-09,Monitor,Electronics,4,190,135,0,Irbid
+ORD0159,2025-02-21,Monitor,Electronics,3,190,135,0,Irbid
+ORD0160,2025-04-02,Notebook,Stationery,1,4,1.5,0.15,Karak
+ORD0161,2025-05-21,Laptop,Electronics,1,650,480,0.1,Irbid
+ORD0162,2025-12-24,Keyboard,Electronics,4,35,19,0,Amman
+ORD0163,2025-10-21,Notebook,Stationery,4,4,1.5,0.05,Zarqa
+ORD0164,2025-06-24,Keyboard,Electronics,1,35,19,0,Zarqa
+ORD0165,2025-02-28,Mouse,Electronics,4,18,9,0.05,Amman
+ORD0166,2025-10-23,Laptop,Electronics,2,650,480,0,Irbid
+ORD0167,2025-02-13,Monitor,Electronics,1,190,135,0.1,Zarqa
+ORD0168,2025-11-07,Backpack,Accessories,5,45,25,0,Zarqa
+ORD0169,2025-08-19,Desk,Furniture,3,220,155,0.1,Zarqa
+ORD0170,2025-06-06,Backpack,Accessories,5,45,25,0,Amman
+ORD0171,2025-04-17,Monitor,Electronics,3,190,135,0.15,Amman
+ORD0172,2025-03-22,Monitor,Electronics,2,190,135,0.1,Amman
+ORD0173,2025-03-22,Laptop,Electronics,4,650,480,0.05,Zarqa
+ORD0174,2025-05-30,Laptop,Electronics,2,650,480,0,Irbid
+ORD0175,2025-12-26,Desk,Furniture,1,220,155,0.15,Karak
+ORD0176,2025-05-16,Backpack,Accessories,2,45,25,0.05,Amman
+ORD0177,2025-10-06,Monitor,Electronics,2,190,135,0,Karak
+ORD0178,2025-02-06,Laptop,Electronics,2,650,480,0,Irbid
+ORD0179,2025-08-13,Mouse,Electronics,4,18,9,0.15,Irbid
+ORD0180,2025-12-25,Desk Chair,Furniture,3,125,80,0.1,Zarqa
+ORD0181,2025-08-13,Mouse,Electronics,5,18,9,0,Zarqa
+ORD0182,2025-06-15,Backpack,Accessories,3,45,25,0,Amman
+ORD0183,2025-04-28,Backpack,Accessories,5,45,25,0,Irbid
+ORD0184,2025-10-23,Laptop,Electronics,2,650,480,0.05,Zarqa
+ORD0185,2025-05-23,Keyboard,Electronics,5,35,19,0.05,Zarqa
+ORD0186,2025-02-16,Desk,Furniture,3,220,155,0.05,Irbid
+ORD0187,2025-06-14,Mouse,Electronics,2,18,9,0,Zarqa
+ORD0188,2025-12-22,Desk,Furniture,3,220,155,0.15,Zarqa
+ORD0189,2025-10-09,Laptop,Electronics,4,650,480,0,Irbid
+ORD0190,2025-05-10,Pen Set,Stationery,1,8,3,0.05,Amman
+ORD0191,2025-12-03,Water Bottle,Accessories,4,15,7,0.05,Amman
+ORD0192,2025-04-07,Water Bottle,Accessories,3,15,7,0.1,Zarqa
+ORD0193,2025-11-17,Desk,Furniture,1,220,155,0,Irbid
+ORD0194,2025-10-09,Keyboard,Electronics,3,35,19,0.05,Zarqa
+ORD0195,2025-03-04,Laptop,Electronics,5,650,480,0,Karak
+ORD0196,2025-06-09,Water Bottle,Accessories,1,15,7,0.1,Zarqa
+ORD0197,2025-02-17,Monitor,Electronics,1,190,135,0.05,Amman
+ORD0198,2025-11-28,Keyboard,Electronics,4,35,19,0.15,Irbid
+ORD0199,2025-09-18,Notebook,Stationery,4,4,1.5,0.05,Zarqa
+ORD0200,2025-05-05,Desk,Furniture,5,220,155,0,Zarqa
+ORD0201,2025-04-08,Backpack,Accessories,5,45,25,0.15,Karak
+ORD0202,2025-02-05,Notebook,Stationery,4,4,1.5,0,Irbid
+ORD0203,2025-01-02,Notebook,Stationery,3,4,1.5,0.1,Zarqa
+ORD0204,2025-03-18,Desk,Furniture,5,220,155,0.05,Irbid
+ORD0205,2025-06-20,Water Bottle,Accessories,5,15,7,0.05,Zarqa
+ORD0206,2025-06-14,Monitor,Electronics,2,190,135,0.1,Zarqa
+ORD0207,2025-04-30,Desk Chair,Furniture,1,125,80,0,Zarqa
+ORD0208,2025-12-28,Desk Chair,Furniture,4,125,80,0.15,Karak
+ORD0209,2025-09-11,Laptop,Electronics,2,650,480,0.1,Irbid
+ORD0210,2025-02-21,Desk,Furniture,1,220,155,0.1,Zarqa
+ORD0211,2025-01-08,Keyboard,Electronics,4,35,19,0.15,Karak
+ORD0212,2025-02-08,Desk,Furniture,3,220,155,0,Zarqa
+ORD0213,2025-11-29,Mouse,Electronics,3,18,9,0.15,Zarqa
+ORD0214,2025-06-12,Desk,Furniture,5,220,155,0,Amman
+ORD0215,2025-05-01,Notebook,Stationery,2,4,1.5,0.15,Amman
+ORD0216,2025-08-11,Mouse,Electronics,1,18,9,0.05,Karak
+ORD0217,2025-12-22,Notebook,Stationery,1,4,1.5,0,Irbid
+ORD0218,2025-01-29,Notebook,Stationery,3,4,1.5,0,Zarqa
+ORD0219,2025-03-16,Monitor,Electronics,5,190,135,0.05,Karak
+ORD0220,2025-03-29,Keyboard,Electronics,1,35,19,0.1,Zarqa
+ORD0221,2025-11-14,Monitor,Electronics,4,190,135,0.1,Karak
+ORD0222,2025-04-29,Desk,Furniture,3,220,155,0.05,Irbid
+ORD0223,2025-12-08,Laptop,Electronics,4,650,480,0,Karak
+ORD0224,2025-02-07,Desk,Furniture,3,220,155,0.1,Irbid
+ORD0225,2025-11-24,Desk Chair,Furniture,3,125,80,0.05,Irbid
+ORD0226,2025-04-12,Desk Chair,Furniture,4,125,80,0,Karak
+ORD0227,2025-07-15,Backpack,Accessories,3,45,25,0.1,Irbid
+ORD0228,2025-12-25,Notebook,Stationery,1,4,1.5,0.15,Zarqa
+ORD0229,2025-05-21,Laptop,Electronics,5,650,480,0.15,Amman
+ORD0230,2025-11-07,Desk,Furniture,3,220,155,0,Irbid
+ORD0231,2025-04-23,Monitor,Electronics,5,190,135,0,Karak
+ORD0232,2025-11-18,Mouse,Electronics,1,18,9,0,Zarqa
+ORD0233,2025-01-18,Backpack,Accessories,3,45,25,0.15,Karak
+ORD0234,2025-02-16,Notebook,Stationery,3,4,1.5,0.15,Zarqa
+ORD0235,2025-03-31,Monitor,Electronics,2,190,135,0.1,Irbid
+ORD0236,2025-09-29,Water Bottle,Accessories,3,15,7,0,Irbid
+ORD0237,2025-09-04,Notebook,Stationery,3,4,1.5,0,Zarqa
+ORD0238,2025-02-08,Keyboard,Electronics,2,35,19,0.15,Zarqa
+ORD0239,2025-10-13,Pen Set,Stationery,1,8,3,0.05,Amman
+ORD0240,2025-05-16,Water Bottle,Accessories,1,15,7,0.05,Irbid
+ORD0241,2025-12-11,Notebook,Stationery,5,4,1.5,0.05,Irbid
+ORD0242,2025-02-25,Monitor,Electronics,4,190,135,0,Irbid
+ORD0243,2025-11-09,Monitor,Electronics,1,190,135,0.15,Zarqa
+ORD0244,2025-12-25,Notebook,Stationery,4,4,1.5,0,Karak
+ORD0245,2025-01-24,Laptop,Electronics,3,650,480,0.05,Amman
+ORD0246,2025-02-19,Monitor,Electronics,5,190,135,0,Zarqa
+ORD0247,2025-08-21,Pen Set,Stationery,5,8,3,0.05,Karak
+ORD0248,2025-08-01,Mouse,Electronics,4,18,9,0.1,Zarqa
+ORD0249,2025-05-24,Laptop,Electronics,3,650,480,0,Zarqa
+ORD0250,2025-08-16,Monitor,Electronics,3,190,135,0,Irbid
+ORD0251,2025-10-06,Pen Set,Stationery,1,8,3,0.05,Irbid
+ORD0252,2025-04-08,Mouse,Electronics,4,18,9,0,Karak
+ORD0253,2025-11-25,Backpack,Accessories,1,45,25,0,Irbid
+ORD0254,2025-05-05,Keyboard,Electronics,5,35,19,0,Amman
+ORD0255,2025-10-11,Monitor,Electronics,5,190,135,0,Karak
+ORD0256,2025-06-18,Keyboard,Electronics,5,35,19,0,Irbid
+ORD0257,2025-03-16,Keyboard,Electronics,5,35,19,0,Karak
+ORD0258,2025-02-26,Laptop,Electronics,2,650,480,0,Irbid
+ORD0259,2025-05-02,Backpack,Accessories,3,45,25,0,Karak
+ORD0260,2025-05-16,Laptop,Electronics,2,650,480,0.15,Zarqa
+ORD0261,2025-09-27,Mouse,Electronics,1,18,9,0.05,Zarqa
+ORD0262,2025-07-05,Water Bottle,Accessories,5,15,7,0,Zarqa
+ORD0263,2025-09-15,Monitor,Electronics,5,190,135,0,Irbid
+ORD0264,2025-08-23,Laptop,Electronics,1,650,480,0.05,Zarqa
+ORD0265,2025-08-07,Mouse,Electronics,4,18,9,0.15,Zarqa
+ORD0266,2025-02-07,Mouse,Electronics,3,18,9,0.1,Karak
+ORD0267,2025-02-03,Keyboard,Electronics,3,35,19,0.1,Irbid
+ORD0268,2025-07-15,Backpack,Accessories,5,45,25,0,Zarqa
+ORD0269,2025-09-16,Backpack,Accessories,4,45,25,0,Amman
+ORD0270,2025-12-02,Water Bottle,Accessories,2,15,7,0.05,Zarqa
+ORD0271,2025-04-27,Desk Chair,Furniture,3,125,80,0.05,Zarqa
+ORD0272,2025-08-01,Mouse,Electronics,3,18,9,0.05,Irbid
+ORD0273,2025-12-07,Notebook,Stationery,3,4,1.5,0,Zarqa
+ORD0274,2025-02-04,Mouse,Electronics,1,18,9,0,Zarqa
+ORD0275,2025-02-19,Pen Set,Stationery,2,8,3,0.1,Amman
+ORD0276,2025-10-28,Water Bottle,Accessories,5,15,7,0,Amman
+ORD0277,2025-07-30,Pen Set,Stationery,4,8,3,0.15,Amman
+ORD0278,2025-05-28,Backpack,Accessories,3,45,25,0,Amman
+ORD0279,2025-10-23,Water Bottle,Accessories,2,15,7,0,Zarqa
+ORD0280,2025-04-25,Mouse,Electronics,3,18,9,0.1,Irbid
+ORD0281,2025-02-28,Notebook,Stationery,5,4,1.5,0,Zarqa
+ORD0282,2025-10-15,Backpack,Accessories,5,45,25,0.15,Amman
+ORD0283,2025-11-08,Notebook,Stationery,1,4,1.5,0,Irbid
+ORD0284,2025-12-26,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0285,2025-04-03,Keyboard,Electronics,5,35,19,0.15,Zarqa
+ORD0286,2025-02-05,Keyboard,Electronics,1,35,19,0,Karak
+ORD0287,2025-07-12,Desk Chair,Furniture,4,125,80,0,Karak
+ORD0288,2025-07-09,Notebook,Stationery,3,4,1.5,0.1,Amman
+ORD0289,2025-01-27,Keyboard,Electronics,2,35,19,0.1,Amman
+ORD0290,2025-12-12,Mouse,Electronics,3,18,9,0.05,Zarqa
+ORD0291,2025-09-06,Backpack,Accessories,4,45,25,0.05,Irbid
+ORD0292,2025-04-21,Water Bottle,Accessories,1,15,7,0,Zarqa
+ORD0293,2025-02-26,Notebook,Stationery,5,4,1.5,0.05,Irbid
+ORD0294,2025-01-24,Monitor,Electronics,4,190,135,0.1,Amman
+ORD0295,2025-01-04,Monitor,Electronics,3,190,135,0,Karak
+ORD0296,2025-05-11,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0297,2025-09-12,Desk Chair,Furniture,2,125,80,0,Zarqa
+ORD0298,2025-09-30,Monitor,Electronics,5,190,135,0.1,Irbid
+ORD0299,2025-02-06,Desk Chair,Furniture,1,125,80,0.05,Amman
+ORD0300,2025-08-24,Mouse,Electronics,3,18,9,0.1,Zarqa
+ORD0301,2025-10-21,Desk Chair,Furniture,4,125,80,0,Amman
+ORD0302,2025-07-27,Laptop,Electronics,3,650,480,0,Zarqa
+ORD0303,2025-12-20,Pen Set,Stationery,1,8,3,0.05,Amman
+ORD0304,2025-05-05,Desk Chair,Furniture,5,125,80,0.05,Amman
+ORD0305,2025-07-22,Notebook,Stationery,3,4,1.5,0,Irbid
+ORD0306,2025-03-28,Mouse,Electronics,5,18,9,0.15,Amman
+ORD0307,2025-09-29,Water Bottle,Accessories,2,15,7,0,Irbid
+ORD0308,2025-11-27,Keyboard,Electronics,2,35,19,0,Karak
+ORD0309,2025-05-12,Monitor,Electronics,2,190,135,0.1,Karak
+ORD0310,2025-12-02,Mouse,Electronics,2,18,9,0.15,Zarqa
+ORD0311,2025-08-26,Backpack,Accessories,5,45,25,0.05,Irbid
+ORD0312,2025-11-18,Pen Set,Stationery,2,8,3,0.05,Amman
+ORD0313,2025-08-29,Desk,Furniture,3,220,155,0,Amman
+ORD0314,2025-06-30,Water Bottle,Accessories,1,15,7,0,Zarqa
+ORD0315,2025-08-20,Laptop,Electronics,1,650,480,0,Irbid
+ORD0316,2025-02-09,Mouse,Electronics,5,18,9,0.1,Zarqa
+ORD0317,2025-08-25,Backpack,Accessories,5,45,25,0.15,Amman
+ORD0318,2025-08-19,Backpack,Accessories,2,45,25,0,Zarqa
+ORD0319,2025-09-14,Keyboard,Electronics,1,35,19,0.05,Amman
+ORD0320,2025-06-25,Mouse,Electronics,5,18,9,0.15,Karak
+ORD0321,2025-01-21,Monitor,Electronics,4,190,135,0.05,Karak
+ORD0322,2025-07-06,Pen Set,Stationery,3,8,3,0.05,Zarqa
+ORD0323,2025-06-23,Backpack,Accessories,1,45,25,0.15,Irbid
+ORD0324,2025-02-03,Pen Set,Stationery,1,8,3,0.1,Zarqa
+ORD0325,2025-05-26,Notebook,Stationery,5,4,1.5,0,Irbid
+ORD0326,2025-02-11,Backpack,Accessories,2,45,25,0,Irbid
+ORD0327,2025-12-02,Desk Chair,Furniture,2,125,80,0.1,Amman
+ORD0328,2025-06-08,Water Bottle,Accessories,4,15,7,0.15,Irbid
+ORD0329,2025-03-07,Water Bottle,Accessories,1,15,7,0.15,Zarqa
+ORD0330,2025-09-18,Pen Set,Stationery,1,8,3,0,Irbid
+ORD0331,2025-04-03,Monitor,Electronics,3,190,135,0.05,Karak
+ORD0332,2025-04-26,Keyboard,Electronics,2,35,19,0,Irbid
+ORD0333,2025-02-21,Water Bottle,Accessories,5,15,7,0.15,Amman
+ORD0334,2025-12-05,Pen Set,Stationery,5,8,3,0,Zarqa
+ORD0335,2025-03-20,Keyboard,Electronics,2,35,19,0.15,Karak
+ORD0336,2025-08-13,Laptop,Electronics,4,650,480,0,Karak
+ORD0337,2025-08-16,Backpack,Accessories,3,45,25,0.15,Zarqa
+ORD0338,2025-04-30,Water Bottle,Accessories,2,15,7,0,Zarqa
+ORD0339,2025-04-10,Pen Set,Stationery,5,8,3,0.05,Zarqa
+ORD0340,2025-05-25,Desk Chair,Furniture,5,125,80,0.1,Zarqa
+ORD0341,2025-03-24,Monitor,Electronics,5,190,135,0,Irbid
+ORD0342,2025-01-27,Desk,Furniture,3,220,155,0.1,Amman
+ORD0343,2025-12-31,Water Bottle,Accessories,1,15,7,0,Amman
+ORD0344,2025-03-24,Notebook,Stationery,4,4,1.5,0.1,Karak
+ORD0345,2025-08-12,Mouse,Electronics,2,18,9,0.05,Irbid
+ORD0346,2025-01-14,Desk Chair,Furniture,1,125,80,0.05,Irbid
+ORD0347,2025-05-01,Desk Chair,Furniture,1,125,80,0,Karak
+ORD0348,2025-01-15,Pen Set,Stationery,1,8,3,0.15,Irbid
+ORD0349,2025-03-16,Keyboard,Electronics,1,35,19,0,Zarqa
+ORD0350,2025-12-23,Keyboard,Electronics,4,35,19,0.05,Amman
+ORD0351,2025-02-10,Laptop,Electronics,3,650,480,0,Karak
+ORD0352,2025-10-08,Backpack,Accessories,5,45,25,0.05,Amman
+ORD0353,2025-05-28,Monitor,Electronics,3,190,135,0,Amman
+ORD0354,2025-05-03,Desk Chair,Furniture,5,125,80,0.05,Amman
+ORD0355,2025-02-26,Desk,Furniture,5,220,155,0.1,Amman
+ORD0356,2025-11-20,Water Bottle,Accessories,5,15,7,0,Karak
+ORD0357,2025-05-30,Desk Chair,Furniture,1,125,80,0.1,Irbid
+ORD0358,2025-05-04,Backpack,Accessories,4,45,25,0,Amman
+ORD0359,2025-09-26,Pen Set,Stationery,1,8,3,0.1,Amman
+ORD0360,2025-07-19,Desk,Furniture,1,220,155,0.15,Zarqa
+ORD0361,2025-07-11,Notebook,Stationery,1,4,1.5,0,Amman
+ORD0362,2025-06-26,Monitor,Electronics,1,190,135,0.1,Irbid
+ORD0363,2025-03-10,Laptop,Electronics,3,650,480,0.1,Irbid
+ORD0364,2025-11-26,Keyboard,Electronics,4,35,19,0.15,Zarqa
+ORD0365,2025-11-20,Keyboard,Electronics,2,35,19,0,Zarqa
+ORD0366,2025-01-19,Notebook,Stationery,2,4,1.5,0,Karak
+ORD0367,2025-01-22,Pen Set,Stationery,3,8,3,0.1,Zarqa
+ORD0368,2025-10-06,Desk,Furniture,3,220,155,0,Karak
+ORD0369,2025-05-27,Pen Set,Stationery,1,8,3,0.15,Irbid
+ORD0370,2025-05-20,Mouse,Electronics,3,18,9,0.05,Zarqa
+ORD0371,2025-08-14,Desk Chair,Furniture,3,125,80,0,Zarqa
+ORD0372,2025-12-21,Desk,Furniture,3,220,155,0.1,Irbid
+ORD0373,2025-02-12,Desk Chair,Furniture,1,125,80,0.05,Karak
+ORD0374,2025-10-07,Notebook,Stationery,3,4,1.5,0,Amman
+ORD0375,2025-06-17,Notebook,Stationery,3,4,1.5,0.05,Zarqa
+ORD0376,2025-03-27,Desk,Furniture,3,220,155,0.05,Amman
+ORD0377,2025-06-30,Backpack,Accessories,4,45,25,0,Amman
+ORD0378,2025-02-08,Desk Chair,Furniture,3,125,80,0.1,Karak
+ORD0379,2025-01-16,Keyboard,Electronics,5,35,19,0.15,Zarqa
+ORD0380,2025-01-18,Keyboard,Electronics,1,35,19,0,Irbid
+ORD0381,2025-07-05,Desk Chair,Furniture,5,125,80,0,Karak
+ORD0382,2025-12-14,Desk,Furniture,3,220,155,0,Zarqa
+ORD0383,2025-02-09,Backpack,Accessories,2,45,25,0.1,Irbid
+ORD0384,2025-07-23,Pen Set,Stationery,3,8,3,0,Amman
+ORD0385,2025-01-14,Keyboard,Electronics,4,35,19,0.1,Zarqa
+ORD0386,2025-10-15,Mouse,Electronics,3,18,9,0,Zarqa
+ORD0387,2025-04-20,Backpack,Accessories,3,45,25,0.15,Zarqa
+ORD0388,2025-04-13,Mouse,Electronics,2,18,9,0,Zarqa
+ORD0389,2025-03-30,Desk,Furniture,1,220,155,0.15,Irbid
+ORD0390,2025-12-08,Pen Set,Stationery,1,8,3,0.1,Irbid
+ORD0391,2025-06-03,Keyboard,Electronics,2,35,19,0,Karak
+ORD0392,2025-03-04,Monitor,Electronics,2,190,135,0,Zarqa
+ORD0393,2025-01-14,Pen Set,Stationery,5,8,3,0.1,Irbid
+ORD0394,2025-08-28,Water Bottle,Accessories,2,15,7,0.1,Amman
+ORD0395,2025-02-03,Notebook,Stationery,4,4,1.5,0.15,Zarqa
+ORD0396,2025-09-27,Desk Chair,Furniture,4,125,80,0.1,Amman
+ORD0397,2025-03-06,Pen Set,Stationery,1,8,3,0.05,Zarqa
+ORD0398,2025-12-15,Water Bottle,Accessories,3,15,7,0,Karak
+ORD0399,2025-03-08,Desk Chair,Furniture,5,125,80,0,Amman
+ORD0400,2025-09-23,Keyboard,Electronics,3,35,19,0,Karak
+ORD0401,2025-06-15,Monitor,Electronics,3,190,135,0.1,Irbid
+ORD0402,2025-02-10,Notebook,Stationery,2,4,1.5,0.15,Irbid
+ORD0403,2025-03-06,Notebook,Stationery,5,4,1.5,0.1,Amman
+ORD0404,2025-09-15,Keyboard,Electronics,5,35,19,0.1,Karak
+ORD0405,2025-03-29,Backpack,Accessories,5,45,25,0,Amman
+ORD0406,2025-01-15,Mouse,Electronics,1,18,9,0.15,Irbid
+ORD0407,2025-11-30,Monitor,Electronics,5,190,135,0.05,Amman
+ORD0408,2025-09-12,Water Bottle,Accessories,3,15,7,0.15,Irbid
+ORD0409,2025-09-05,Monitor,Electronics,4,190,135,0,Zarqa
+ORD0410,2025-02-07,Laptop,Electronics,2,650,480,0.05,Zarqa
+ORD0411,2025-09-05,Desk,Furniture,2,220,155,0,Karak
+ORD0412,2025-06-10,Pen Set,Stationery,3,8,3,0.05,Karak
+ORD0413,2025-07-09,Water Bottle,Accessories,5,15,7,0,Irbid
+ORD0414,2025-05-04,Desk,Furniture,1,220,155,0,Zarqa
+ORD0415,2025-05-07,Keyboard,Electronics,1,35,19,0,Irbid
+ORD0416,2025-07-16,Backpack,Accessories,4,45,25,0,Karak
+ORD0417,2025-06-17,Backpack,Accessories,3,45,25,0,Karak
+ORD0418,2025-09-13,Water Bottle,Accessories,4,15,7,0.05,Irbid
+ORD0419,2025-09-12,Laptop,Electronics,1,650,480,0.05,Zarqa
+ORD0420,2025-05-04,Monitor,Electronics,5,190,135,0,Amman
+ORD0421,2025-01-26,Notebook,Stationery,4,4,1.5,0.1,Zarqa
+ORD0422,2025-05-27,Water Bottle,Accessories,1,15,7,0,Zarqa
+ORD0423,2025-03-10,Notebook,Stationery,3,4,1.5,0.05,Irbid
+ORD0424,2025-01-24,Desk Chair,Furniture,1,125,80,0.1,Karak
+ORD0425,2025-07-05,Water Bottle,Accessories,3,15,7,0,Zarqa
+ORD0426,2025-09-16,Desk,Furniture,5,220,155,0,Amman
+ORD0427,2025-03-07,Mouse,Electronics,4,18,9,0,Irbid
+ORD0428,2025-10-13,Pen Set,Stationery,2,8,3,0,Zarqa
+ORD0429,2025-09-14,Laptop,Electronics,1,650,480,0,Karak
+ORD0430,2025-06-20,Desk,Furniture,5,220,155,0.05,Karak
+ORD0431,2025-11-07,Water Bottle,Accessories,2,15,7,0,Irbid
+ORD0432,2025-03-25,Desk Chair,Furniture,5,125,80,0.15,Irbid
+ORD0433,2025-10-31,Pen Set,Stationery,5,8,3,0.1,Zarqa
+ORD0434,2025-12-29,Backpack,Accessories,3,45,25,0.05,Amman
+ORD0435,2025-07-08,Pen Set,Stationery,1,8,3,0.05,Irbid
+ORD0436,2025-12-19,Laptop,Electronics,5,650,480,0.05,Irbid
+ORD0437,2025-12-02,Backpack,Accessories,5,45,25,0,Amman
+ORD0438,2025-10-26,Desk,Furniture,2,220,155,0.1,Zarqa
+ORD0439,2025-03-17,Monitor,Electronics,1,190,135,0.1,Amman
+ORD0440,2025-04-08,Laptop,Electronics,4,650,480,0,Zarqa
+ORD0441,2025-03-19,Desk Chair,Furniture,2,125,80,0.05,Zarqa
+ORD0442,2025-02-01,Keyboard,Electronics,5,35,19,0,Irbid
+ORD0443,2025-12-06,Desk,Furniture,5,220,155,0.05,Irbid
+ORD0444,2025-03-30,Desk,Furniture,5,220,155,0,Irbid
+ORD0445,2025-12-13,Notebook,Stationery,5,4,1.5,0.05,Karak
+ORD0446,2025-05-07,Notebook,Stationery,5,4,1.5,0,Karak
+ORD0447,2025-06-02,Notebook,Stationery,2,4,1.5,0.15,Zarqa
+ORD0448,2025-06-12,Desk,Furniture,3,220,155,0.1,Irbid
+ORD0449,2025-05-28,Mouse,Electronics,5,18,9,0.15,Zarqa
+ORD0450,2025-07-22,Pen Set,Stationery,2,8,3,0,Amman
+ORD0451,2025-05-28,Mouse,Electronics,3,18,9,0.05,Irbid
+ORD0452,2025-09-03,Monitor,Electronics,2,190,135,0.1,Irbid
+ORD0453,2025-10-15,Notebook,Stationery,2,4,1.5,0,Karak
+ORD0454,2025-05-05,Laptop,Electronics,5,650,480,0,Karak
+ORD0455,2025-01-27,Mouse,Electronics,4,18,9,0,Zarqa
+ORD0456,2025-02-21,Keyboard,Electronics,1,35,19,0.1,Karak
+ORD0457,2025-07-28,Desk,Furniture,4,220,155,0.15,Karak
+ORD0458,2025-05-28,Pen Set,Stationery,3,8,3,0.15,Amman
+ORD0459,2025-02-15,Backpack,Accessories,2,45,25,0.1,Amman
+ORD0460,2025-03-31,Desk Chair,Furniture,2,125,80,0,Zarqa
+ORD0461,2025-09-11,Keyboard,Electronics,3,35,19,0,Amman
+ORD0462,2025-06-02,Backpack,Accessories,5,45,25,0,Irbid
+ORD0463,2025-05-26,Desk,Furniture,5,220,155,0.1,Zarqa
+ORD0464,2025-03-10,Water Bottle,Accessories,4,15,7,0,Karak
+ORD0465,2025-02-27,Pen Set,Stationery,2,8,3,0.15,Zarqa
+ORD0466,2025-11-28,Notebook,Stationery,2,4,1.5,0,Irbid
+ORD0467,2025-06-01,Backpack,Accessories,2,45,25,0,Zarqa
+ORD0468,2025-08-07,Water Bottle,Accessories,3,15,7,0,Zarqa
+ORD0469,2025-12-09,Mouse,Electronics,2,18,9,0,Zarqa
+ORD0470,2025-06-15,Monitor,Electronics,1,190,135,0,Zarqa
+ORD0471,2025-05-01,Desk,Furniture,3,220,155,0,Irbid
+ORD0472,2025-10-26,Backpack,Accessories,1,45,25,0,Irbid
+ORD0473,2025-12-21,Monitor,Electronics,1,190,135,0.15,Amman
+ORD0474,2025-08-27,Notebook,Stationery,2,4,1.5,0.05,Irbid
+ORD0475,2025-12-20,Mouse,Electronics,3,18,9,0,Karak
+ORD0476,2025-04-23,Keyboard,Electronics,4,35,19,0,Zarqa
+ORD0477,2025-11-07,Pen Set,Stationery,4,8,3,0.15,Zarqa
+ORD0478,2025-10-03,Monitor,Electronics,2,190,135,0.15,Amman
+ORD0479,2025-09-27,Desk,Furniture,5,220,155,0.15,Irbid
+ORD0480,2025-02-09,Backpack,Accessories,1,45,25,0,Karak
+ORD0481,2025-10-21,Water Bottle,Accessories,2,15,7,0,Irbid
+ORD0482,2025-09-24,Desk,Furniture,1,220,155,0.15,Karak
+ORD0483,2025-10-26,Desk,Furniture,1,220,155,0.1,Zarqa
+ORD0484,2025-01-29,Desk,Furniture,2,220,155,0.1,Zarqa
+ORD0485,2025-08-22,Backpack,Accessories,1,45,25,0.1,Zarqa
+ORD0486,2025-12-11,Notebook,Stationery,1,4,1.5,0.05,Irbid
+ORD0487,2025-01-02,Monitor,Electronics,5,190,135,0,Amman
+ORD0488,2025-08-05,Pen Set,Stationery,1,8,3,0.1,Amman
+ORD0489,2025-02-05,Desk,Furniture,1,220,155,0,Zarqa
+ORD0490,2025-04-03,Keyboard,Electronics,4,35,19,0,Zarqa
+ORD0491,2025-08-18,Desk Chair,Furniture,4,125,80,0,Karak
+ORD0492,2025-12-01,Pen Set,Stationery,1,8,3,0,Zarqa
+ORD0493,2025-09-28,Keyboard,Electronics,2,35,19,0,Amman
+ORD0494,2025-06-02,Desk,Furniture,5,220,155,0.05,Zarqa
+ORD0495,2025-04-28,Monitor,Electronics,4,190,135,0,Karak
+ORD0496,2025-05-22,Monitor,Electronics,1,190,135,0,Zarqa
+ORD0497,2025-11-11,Laptop,Electronics,2,650,480,0,Amman
+ORD0498,2025-02-21,Backpack,Accessories,1,45,25,0.05,Amman
+ORD0499,2025-05-06,Laptop,Electronics,4,650,480,0.05,Karak
+ORD0500,2025-10-04,Monitor,Electronics,1,190,135,0,Irbid
+ORD0501,2025-04-30,Backpack,Accessories,3,45,25,0.1,Irbid
+ORD0502,2025-05-02,Notebook,Stationery,2,4,1.5,0.15,Karak
+ORD0503,2025-07-31,Notebook,Stationery,3,4,1.5,0,Karak
+ORD0504,2025-11-17,Desk Chair,Furniture,5,125,80,0.05,Amman
+ORD0505,2025-06-26,Desk Chair,Furniture,5,125,80,0,Zarqa
+ORD0506,2025-07-29,Keyboard,Electronics,3,35,19,0.05,Karak
+ORD0507,2025-10-03,Desk,Furniture,2,220,155,0,Irbid
+ORD0508,2025-12-29,Keyboard,Electronics,4,35,19,0,Zarqa
+ORD0509,2025-08-02,Water Bottle,Accessories,5,15,7,0,Zarqa
+ORD0510,2025-05-05,Notebook,Stationery,2,4,1.5,0,Amman
+ORD0511,2025-08-19,Pen Set,Stationery,1,8,3,0.1,Karak
+ORD0512,2025-01-27,Notebook,Stationery,4,4,1.5,0.15,Amman
+ORD0513,2025-02-07,Monitor,Electronics,5,190,135,0.15,Karak
+ORD0514,2025-09-03,Monitor,Electronics,3,190,135,0,Amman
+ORD0515,2025-04-19,Monitor,Electronics,1,190,135,0.15,Zarqa
+ORD0516,2025-05-05,Backpack,Accessories,2,45,25,0.05,Karak
+ORD0517,2025-10-10,Pen Set,Stationery,3,8,3,0.05,Zarqa
+ORD0518,2025-10-01,Pen Set,Stationery,3,8,3,0,Irbid
+ORD0519,2025-09-20,Desk,Furniture,4,220,155,0,Zarqa
+ORD0520,2025-06-13,Monitor,Electronics,3,190,135,0,Zarqa
+ORD0521,2025-01-24,Backpack,Accessories,2,45,25,0.15,Karak
+ORD0522,2025-01-09,Notebook,Stationery,5,4,1.5,0.1,Zarqa
+ORD0523,2025-06-01,Keyboard,Electronics,2,35,19,0,Karak
+ORD0524,2025-07-14,Backpack,Accessories,2,45,25,0.05,Irbid
+ORD0525,2025-05-12,Desk,Furniture,4,220,155,0.05,Karak
+ORD0526,2025-06-30,Keyboard,Electronics,2,35,19,0.15,Zarqa
+ORD0527,2025-04-05,Water Bottle,Accessories,1,15,7,0.1,Amman
+ORD0528,2025-02-08,Laptop,Electronics,1,650,480,0.05,Karak
+ORD0529,2025-11-19,Monitor,Electronics,1,190,135,0.15,Karak
+ORD0530,2025-01-05,Monitor,Electronics,5,190,135,0.05,Irbid
+ORD0531,2025-01-31,Backpack,Accessories,5,45,25,0.05,Zarqa
+ORD0532,2025-01-09,Laptop,Electronics,5,650,480,0.1,Zarqa
+ORD0533,2025-01-07,Laptop,Electronics,5,650,480,0.15,Irbid
+ORD0534,2025-10-02,Notebook,Stationery,1,4,1.5,0.1,Zarqa
+ORD0535,2025-04-02,Mouse,Electronics,1,18,9,0.1,Karak
+ORD0536,2025-05-04,Monitor,Electronics,5,190,135,0.1,Irbid
+ORD0537,2025-07-01,Notebook,Stationery,4,4,1.5,0,Irbid
+ORD0538,2025-07-27,Desk,Furniture,5,220,155,0,Karak
+ORD0539,2025-06-03,Mouse,Electronics,1,18,9,0,Zarqa
+ORD0540,2025-07-14,Desk Chair,Furniture,5,125,80,0.05,Amman
+ORD0541,2025-11-23,Laptop,Electronics,2,650,480,0,Zarqa
+ORD0542,2025-08-11,Pen Set,Stationery,5,8,3,0,Amman
+ORD0543,2025-04-28,Monitor,Electronics,5,190,135,0.05,Irbid
+ORD0544,2025-01-24,Mouse,Electronics,3,18,9,0.1,Amman
+ORD0545,2025-04-02,Pen Set,Stationery,1,8,3,0,Karak
+ORD0546,2025-12-31,Desk Chair,Furniture,1,125,80,0,Karak
+ORD0547,2025-10-16,Monitor,Electronics,5,190,135,0.05,Irbid
+ORD0548,2025-07-16,Keyboard,Electronics,1,35,19,0.1,Irbid
+ORD0549,2025-01-28,Mouse,Electronics,4,18,9,0,Amman
+ORD0550,2025-06-24,Backpack,Accessories,5,45,25,0.1,Zarqa
+ORD0551,2025-06-17,Laptop,Electronics,3,650,480,0.05,Zarqa
+ORD0552,2025-04-27,Pen Set,Stationery,5,8,3,0.05,Zarqa
+ORD0553,2025-04-06,Backpack,Accessories,4,45,25,0,Irbid
+ORD0554,2025-05-07,Mouse,Electronics,1,18,9,0,Karak
+ORD0555,2025-07-14,Keyboard,Electronics,4,35,19,0,Irbid
+ORD0556,2025-02-24,Mouse,Electronics,1,18,9,0,Zarqa
+ORD0557,2025-07-04,Notebook,Stationery,1,4,1.5,0,Amman
+ORD0558,2025-04-06,Desk Chair,Furniture,4,125,80,0.1,Zarqa
+ORD0559,2025-02-22,Laptop,Electronics,1,650,480,0,Amman
+ORD0560,2025-11-02,Backpack,Accessories,3,45,25,0.05,Amman
+ORD0561,2025-05-30,Desk Chair,Furniture,4,125,80,0,Karak
+ORD0562,2025-10-20,Water Bottle,Accessories,2,15,7,0.15,Zarqa
+ORD0563,2025-03-28,Keyboard,Electronics,3,35,19,0,Irbid
+ORD0564,2025-09-10,Keyboard,Electronics,1,35,19,0,Zarqa
+ORD0565,2025-05-22,Desk Chair,Furniture,3,125,80,0.05,Amman
+ORD0566,2025-07-04,Notebook,Stationery,2,4,1.5,0.15,Zarqa
+ORD0567,2025-11-01,Backpack,Accessories,2,45,25,0.05,Amman
+ORD0568,2025-03-11,Notebook,Stationery,1,4,1.5,0.05,Irbid
+ORD0569,2025-11-14,Desk Chair,Furniture,3,125,80,0.05,Irbid
+ORD0570,2025-08-09,Backpack,Accessories,2,45,25,0,Irbid
+ORD0571,2025-11-05,Monitor,Electronics,4,190,135,0,Karak
+ORD0572,2025-07-23,Pen Set,Stationery,3,8,3,0.15,Zarqa
+ORD0573,2025-10-22,Monitor,Electronics,3,190,135,0.05,Irbid
+ORD0574,2025-07-21,Pen Set,Stationery,1,8,3,0.1,Karak
+ORD0575,2025-10-31,Water Bottle,Accessories,2,15,7,0.15,Amman
+ORD0576,2025-08-25,Monitor,Electronics,4,190,135,0,Amman
+ORD0577,2025-07-29,Desk,Furniture,2,220,155,0.15,Irbid
+ORD0578,2025-05-04,Notebook,Stationery,2,4,1.5,0.15,Zarqa
+ORD0579,2025-07-13,Mouse,Electronics,4,18,9,0.1,Zarqa
+ORD0580,2025-10-26,Desk Chair,Furniture,5,125,80,0.1,Zarqa
+ORD0581,2025-10-06,Laptop,Electronics,3,650,480,0.15,Amman
+ORD0582,2025-02-25,Monitor,Electronics,3,190,135,0,Amman
+ORD0583,2025-10-16,Desk Chair,Furniture,3,125,80,0.05,Amman
+ORD0584,2025-01-06,Mouse,Electronics,3,18,9,0,Karak
+ORD0585,2025-08-17,Pen Set,Stationery,4,8,3,0.05,Karak
+ORD0586,2025-06-26,Laptop,Electronics,4,650,480,0,Irbid
+ORD0587,2025-08-01,Mouse,Electronics,1,18,9,0.15,Karak
+ORD0588,2025-06-28,Notebook,Stationery,3,4,1.5,0.05,Karak
+ORD0589,2025-09-24,Desk,Furniture,3,220,155,0.05,Amman
+ORD0590,2025-08-13,Desk,Furniture,3,220,155,0,Irbid
+ORD0591,2025-01-23,Mouse,Electronics,1,18,9,0,Amman
+ORD0592,2025-12-13,Keyboard,Electronics,2,35,19,0.1,Karak
+ORD0593,2025-10-10,Keyboard,Electronics,3,35,19,0.1,Zarqa
+ORD0594,2025-08-25,Monitor,Electronics,4,190,135,0.15,Karak
+ORD0595,2025-04-06,Desk Chair,Furniture,4,125,80,0,Karak
+ORD0596,2025-08-19,Backpack,Accessories,4,45,25,0.05,Amman
+ORD0597,2025-12-27,Monitor,Electronics,2,190,135,0,Amman
+ORD0598,2025-10-23,Mouse,Electronics,5,18,9,0,Irbid
+ORD0599,2025-06-16,Monitor,Electronics,4,190,135,0,Irbid
+ORD0600,2025-12-10,Desk,Furniture,5,220,155,0.15,Irbid
